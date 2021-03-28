@@ -12,7 +12,7 @@ Print all seals:     [Print All](image/PrintAllProductScreen.png)
 
 Print one Product:  [Print One](image/PrintOneProductScreen.png)
 
-Delete one Product: [Delete One](image/PrintAllProductScreen2.png)
+Delete one Product: [Delete One](image/PrintOneProductScreen2.png)
 
 
 
