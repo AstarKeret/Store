@@ -10,5 +10,7 @@ Add Product sceen:  [Add new Product](image/AddProductScreen.png)
 
 Print all seals:     [Print All](image/PrintAllProductScreen.png)
 
+print one Product:  [Print One](image/PrintOneProductScreen2.png)
+
 
 
